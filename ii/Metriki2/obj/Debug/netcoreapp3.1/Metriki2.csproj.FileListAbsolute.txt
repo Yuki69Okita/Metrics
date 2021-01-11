@@ -1,0 +1,13 @@
+D:\codeshit\ii\Metriki2\bin\Debug\netcoreapp3.1\Metriki2.exe
+D:\codeshit\ii\Metriki2\bin\Debug\netcoreapp3.1\Metriki2.deps.json
+D:\codeshit\ii\Metriki2\bin\Debug\netcoreapp3.1\Metriki2.runtimeconfig.json
+D:\codeshit\ii\Metriki2\bin\Debug\netcoreapp3.1\Metriki2.runtimeconfig.dev.json
+D:\codeshit\ii\Metriki2\bin\Debug\netcoreapp3.1\Metriki2.dll
+D:\codeshit\ii\Metriki2\bin\Debug\netcoreapp3.1\Metriki2.pdb
+D:\codeshit\ii\Metriki2\obj\Debug\netcoreapp3.1\Metriki2.csprojAssemblyReference.cache
+D:\codeshit\ii\Metriki2\obj\Debug\netcoreapp3.1\Metriki2.AssemblyInfoInputs.cache
+D:\codeshit\ii\Metriki2\obj\Debug\netcoreapp3.1\Metriki2.AssemblyInfo.cs
+D:\codeshit\ii\Metriki2\obj\Debug\netcoreapp3.1\Metriki2.csproj.CoreCompileInputs.cache
+D:\codeshit\ii\Metriki2\obj\Debug\netcoreapp3.1\Metriki2.dll
+D:\codeshit\ii\Metriki2\obj\Debug\netcoreapp3.1\Metriki2.pdb
+D:\codeshit\ii\Metriki2\obj\Debug\netcoreapp3.1\Metriki2.genruntimeconfig.cache

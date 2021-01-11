@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Valentina\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Valentina\\.nuget\\packages"
+    ]
+  }
+}
